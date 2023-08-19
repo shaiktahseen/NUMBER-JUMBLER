@@ -1,4 +1,4 @@
-# NUMBER-JUMBLER
+# NUMBER-JUMBLER :
 
 The Number Jumbler UI Page presents a dynamic feature: upon clicking the "Regenerate" button, the numeric boxes (ranging from 1 to 9) undergo a randomized rearrangement. This interactive function adds an element of unpredictability, making each click yield a new sequence. 
 
