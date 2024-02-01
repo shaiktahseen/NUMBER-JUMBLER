@@ -6,7 +6,6 @@ This engaging mechanism not only offers a playful experience but also exemplifie
 
 The Number Jumbler UI Page effectively demonstrates the concept while providing an enjoyable and educational user interaction.
 
-
 Output attached:
 
 ![image](https://github.com/shaiktahseen/NUMBER-JUMBLER/assets/126344231/e841f57d-a053-430c-ac62-a25172c51a30)
