@@ -9,4 +9,3 @@ The Number Jumbler UI Page effectively demonstrates the concept while providing 
 Output:
 
 ![image](https://github.com/shaiktahseen/NUMBER-JUMBLER/assets/126344231/e841f57d-a053-430c-ac62-a25172c51a30)
-
